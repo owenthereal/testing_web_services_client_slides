@@ -57,7 +57,7 @@ a.eval {
 }
 
 h1, h2, h3, h4 {
-  margin: 0 0 .5em;
+  margin: 0 0 .1em;
 }
 
 h1 {
@@ -73,7 +73,7 @@ h1 {
 
 h2 {
   text-align: center;
-  margin-bottom: .25em;
+  margin-bottom: .15em;
   font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   font-size: 2.5em;
@@ -81,7 +81,7 @@ h2 {
 
 h3 {
   text-align: center;
-  margin-bottom: .25em;
+  margin-bottom: .15em;
   font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   font-size: 3.0em;
@@ -89,7 +89,7 @@ h3 {
 
 h4 {
   text-align: center;
-  margin-bottom: .25em;
+  margin-bottom: .15em;
   font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   font-size: 2.5em;
