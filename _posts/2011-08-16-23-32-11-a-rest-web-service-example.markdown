@@ -1,4 +1,5 @@
 ### A REST web service example
+    # GET http://api.twitter.com/:user_id/statuses/show/:tweet_id.json
 
     $ curl http://api.twitter.com/1/statuses/show/24858112192159745.json
     {
