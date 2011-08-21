@@ -1,0 +1,12 @@
+### Summary
+
+* ActiveResource
+* dRuby for transactional rollback
+* dRuby for fixture creation
+* other usages:
+    * not Ruby specific, other languages will work with similar setup
+    * improvement for Capybara, it's using truncation for selelium test
+      strategy
+    * Jasmine ajax tests in Ruby
+    * mobile tests that hit web services, e.g., invoke them with Rake
+* I am abstracting out all these into a gem :-)
