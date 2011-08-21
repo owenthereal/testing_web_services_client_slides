@@ -2,5 +2,5 @@
 
 * not Ruby specific, other languages will work with similar setup
 * improvement for Capybara, it uses truncation for selelium test strategy
-* Jasmine ajax tests in Ruby, the jasmine-gem
-* mobile tests that hit web services, e.g., invoke them with Rake
+* headless Jasmine ajax tests in Ruby (https://github.com/pivotal/jasmine-gem)
+* mobile tests that hit web services, e.g., invoke with Rake
