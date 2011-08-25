@@ -1,6 +1,3 @@
-### Twitter+ TODO
+### Twitter+ architecture
 
-* server: CRUD for Tweet
-* client: test create
-* client: test show
-* client: test index
+<img alt="Twitter+ architecture" src="./images/twitter_plus_architecture.png" class="hcenter center">
